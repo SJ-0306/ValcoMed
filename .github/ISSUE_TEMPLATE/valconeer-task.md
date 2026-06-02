@@ -6,11 +6,11 @@ labels: ""
 assignees: ""
 ---
 
-## 🎯 Objective
+## Objective
 <!-- What needs to be done? Be specific. -->
 
 
-## 🔧 Component
+## Component
 <!-- Select one: -->
 <!-- - Nix -->
 <!-- - Docker -->
@@ -22,13 +22,13 @@ assignees: ""
 <!-- - Documentation -->
 - 
 
-## 📋 Acceptance Criteria
+## Acceptance Criteria
 <!-- What does "done" look like? -->
 -
 -  
 -
 
-## 🔗 Related Files
+## Related Files
 <!-- Which files will change? -->
 - `nix files`
 - `docker files`
