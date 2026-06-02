@@ -22,13 +22,6 @@ assignees: ""
 <!-- - Documentation -->
 - 
 
-## ⚠️ Risk Level
-<!-- Select one: -->
-<!-- - Low (Observability, docs, comments) -->
-<!-- - Medium (Access changes, new policies) -->
-<!-- - High (Runtime kill rules, security enforcement) -->
-- 
-
 ## 📋 Acceptance Criteria
 <!-- What does "done" look like? -->
 -
